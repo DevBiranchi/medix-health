@@ -44,8 +44,3 @@ export default function Home({ searchParams }: SearchParamProps) {
     </div>
   );
 }
-
-
-//4:10:25
-
-//3:50
